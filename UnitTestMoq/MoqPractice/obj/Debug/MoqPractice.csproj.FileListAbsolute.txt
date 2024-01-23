@@ -1,0 +1,7 @@
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\obj\Debug\MoqPractice.csproj.AssemblyReference.cache
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\obj\Debug\MoqPractice.csproj.CoreCompileInputs.cache
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\bin\Debug\MoqPractice.exe.config
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\bin\Debug\MoqPractice.exe
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\bin\Debug\MoqPractice.pdb
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\obj\Debug\MoqPractice.exe
+C:\Users\satyam_khare\source\repos\UnitTestMoq\MoqPractice\obj\Debug\MoqPractice.pdb

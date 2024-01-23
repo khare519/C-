@@ -1,0 +1,7 @@
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\obj\Debug\StubUnitTesting.csproj.AssemblyReference.cache
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\obj\Debug\StubUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\bin\Debug\StubUnitTesting.exe.config
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\bin\Debug\StubUnitTesting.exe
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\bin\Debug\StubUnitTesting.pdb
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\obj\Debug\StubUnitTesting.exe
+C:\Users\satyam_khare\source\repos\StubUnitTesting\StubUnitTesting\obj\Debug\StubUnitTesting.pdb
